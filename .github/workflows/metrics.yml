@@ -21,9 +21,5 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
-          plugin_skyline: yes
-          plugin_skyline_year: current-year
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
           plugin_repositories: yes
           plugin_repositories_featured: incremental-inter-service-taint-analysis, stego_demo
