@@ -1,2 +1,2 @@
 ## 📊 Stats
-<p align="center"><img src="metrics.svg" alt="GitHub metrics"/></p>
+<img src="metrics.svg" alt="GitHub metrics" width="100%"/>
