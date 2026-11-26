@@ -18,7 +18,4 @@ Finds source→sink chains that cross service boundaries (HTTP, RabbitMQ, shared
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=GlankS21&repo=incremental-inter-service-taint-analysis&theme=tokyonight&hide_border=true)](https://github.com/GlankS21/incremental-inter-service-taint-analysis)
 
 ## 📊 Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GlankS21&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlankS21&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<p align="center"><img src="metrics.svg" alt="GitHub metrics"/></p>
