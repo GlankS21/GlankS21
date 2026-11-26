@@ -19,10 +19,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
           template: classic
-          base: header, activity
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_ignored: jupyter notebook
-          plugin_languages_limit: 8
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_repositories: yes
+          plugin_repositories_featured: incremental-inter-service-taint-analysis, stego_demo
