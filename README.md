@@ -15,10 +15,10 @@
 Incremental inter-service taint analysis for Java microservices, shipped as a GitHub Action.
 Finds source→sink chains that cross service boundaries (HTTP, RabbitMQ, shared DB) and reports them as SARIF.
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=GlankS21&repo=incremental-inter-service-taint-analysis)](https://github.com/GlankS21/incremental-inter-service-taint-analysis)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=GlankS21&repo=incremental-inter-service-taint-analysis)](https://github.com/GlankS21/incremental-inter-service-taint-analysis&theme=tokyonight&hide_border=true)
 
 ## 📊 Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GlankS21&show_icons=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlankS21&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GlankS21&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlankS21&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
