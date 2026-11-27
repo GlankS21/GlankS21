@@ -18,8 +18,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
-          plugin_repositories: yes
-          plugin_repositories_featured: incremental-inter-service-taint-analysis, stego_demo
